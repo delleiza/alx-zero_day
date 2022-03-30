@@ -1,1 +1,1 @@
-this Repo is for alx SE task
+this Repositorie is for alx SE task
